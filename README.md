@@ -61,8 +61,6 @@
 
 ---
 
-© 2026 masafykun (https://github.com/masafykun)
-
 ---
 
 ## ライセンス
